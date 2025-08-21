@@ -21,3 +21,28 @@ Frontend: React + Tailwind CSS + Material UI.
 
 Testing: Postman .
 
+Core Features
+
+Data Parsing: Reads US_recipes.json and seeds recipes into DB.
+
+REST APIs: Query by cuisine, difficulty, rating (with pagination).
+
+Frontend Dashboard:
+
+Search bar for title.
+
+Filters (dropdowns & sliders).
+
+Paginated recipe table with star ratings.
+
+Error Handling: Standardized JSON error responses.
+
+
+
+Workflow:
+
+Backend Setup → Install deps, configure .env, seed DB, start server.
+
+Frontend Setup → Install deps, run React app.
+
+Testing → Verify APIs with Postman / UI filters.
