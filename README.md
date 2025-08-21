@@ -8,4 +8,16 @@ Stores it in a database.
 
 Exposes APIs to query/filter recipes.
 
-Provides
+Provides a React-based UI for users to explore recipes
+
+
+Architecture:
+
+Backend: Node.js + Express 
+
+Database: MongoDB .
+
+Frontend: React + Tailwind CSS + Material UI.
+
+Testing: Postman .
+
